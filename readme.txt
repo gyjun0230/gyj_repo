@@ -1,3 +1,4 @@
+test merge_1
 hahaha
 fenCha to master
 git merge --no-ff dev1
