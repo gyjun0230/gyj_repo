@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-fenCha to master
-=======
-fenCha to dev
->>>>>>> dev
+test merge_2
+hello world 
 git merge --no-ff dev1
 git branch dev
 Git push GitHub
